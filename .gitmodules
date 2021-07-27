@@ -1,0 +1,12 @@
+[submodule "prueba-tfg-rh-app"]
+	path = prueba-tfg-rh-app
+	url = https://github.com/DelgadoTrueba/prueba-tfg-rh-app
+[submodule "prueba-tfg-rh-api-rest"]
+	path = prueba-tfg-rh-api-rest
+	url = https://github.com/DelgadoTrueba/prueba-tfg-rh-api-rest
+[submodule "prueba-tfg-rh-smart-contract-library"]
+	path = prueba-tfg-rh-smart-contract-library
+	url = https://github.com/DelgadoTrueba/prueba-tfg-rh-smart-contract-library
+[submodule "prueba-tfg-rh-smart-contract"]
+	path = prueba-tfg-rh-smart-contract
+	url = https://github.com/DelgadoTrueba/prueba-tfg-rh-smart-contract
